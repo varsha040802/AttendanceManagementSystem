@@ -24,7 +24,7 @@ Folder Structure:-
 
 Getting Started:-
 1. Clone the repository:
-git clone https://github.com/yourusername/AttendanceManagementSystem.git
+git clone https://github.com/varsha040802/AttendanceManagementSystem.git
 2. Open the solution in Visual Studio.
 3. Configure your database connection in appsettings.json.
 4. Run the application using IIS Express or dotnet run.
