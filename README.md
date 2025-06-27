@@ -10,17 +10,17 @@ Features:-
 6. User Management: Integrated with a user and designation system for flexible role handling.
 
 Tech Stack:-
-Backend: ASP.NET Core MVC (.NET 8), Entity Framework Core
-Frontend: Bootstrap 5, HTML, Razor Views
-Database: SQL Server (Database-First approach)
-Tools: Visual Studio, SQL Server Management Studio
+1. Backend: ASP.NET Core MVC (.NET 8), Entity Framework Core
+2. Frontend: Bootstrap 5, HTML, Razor Views
+3. Database: SQL Server (Database-First approach)
+4. Tools: Visual Studio, SQL Server Management Studio
 
 Folder Structure:-
-/Controllers         → MVC controllers for Attendance logic
-/Models              → EF Core models for Users, Designations, Attendance
-/Views               → Razor views for inserting, viewing, reporting
-/wwwroot             → Static assets (images, CSS, JS)
-/Db context          → Database context (AMSDbContext)
+1. /Controllers         → MVC controllers for Attendance logic
+2. /Models              → EF Core models for Users, Designations, Attendance
+3. /Views               → Razor views for inserting, viewing, reporting
+4. /wwwroot             → Static assets (images, CSS, JS)
+5. /Db context          → Database context (AMSDbContext)
 
 Getting Started:-
 1. Clone the repository:
